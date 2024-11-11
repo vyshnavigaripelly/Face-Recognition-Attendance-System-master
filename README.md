@@ -1,6 +1,6 @@
-# Face Recognition Attandance System
+# Face Recognition Attendance System
 
-### Recognize The faces And Take Automatic Attandance. :sparkles:
+### Recognize The faces And Take Automatic Attendance. :sparkles:
 
 ![Face Recognition Logo](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/Face-Recognition-Attendance-System-Logo.jpg)
 
@@ -63,21 +63,8 @@ Software Used -
 ## Installation :key:
 -----------------------------------
 
-#### Download or Clone the project
 
-First Download or Clone the Project on Your Local Machine.To download the project from github press **Download Zip**
-
-![Download Zip](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/download%20zip.png)
-
-or 
-
-You can clone the project with git bash.To clone the project using git bash first open the git bash and write the following code
 ```
-git clone https://github.com/kmhmubin/Face-Recognition-Attendance-System.git
-```
-demo 
-
-![Git clone](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/git%20clone_edit_0.gif)
 
 After download, Open the project using **Pycharm or VSCODE**. Then we have to create an python enviroment to run the program.
 
@@ -156,17 +143,3 @@ This project have some bugs.
 * Student Details: In student details folder the **StudentDetails.csv** file don't have ID & name column.This problem show when the program run first time and create the **StudentDetails.csv** file automatically. To soleve the problelm just open the file and add *ID & Name Column* in the file and save it.
 
 * Auto Attachment: This is not a problem actually. The problem is before sent auto mail we have to manually change the file name. I tried to automate the attachment but i faild.
-
-## Contribute :heart:
---------------------------------------
-If you want to contribute in this project feel free to do that. A [contribution guideline](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Contributing%20Guidelines.md) will be a big help.
-
-Thanks you [Ciroiriarte](https://github.com/ciroiriarte) for contributing.
-
-## Credits :sparkling_heart:
---------------------------------
-Thanks to [Farhat Tasnim](https://github.com/farhattasnim) work with me.
-
-## Licence :scroll:
----------------------------------
-MIT © [K.M.H. Mubin](https://github.com/kmhmubin)
